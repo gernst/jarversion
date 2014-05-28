@@ -17,6 +17,7 @@ Example
     file2.jar 51 51
 
 Major Number to Java version
-49              Java 1.5
-50              Java 1.6
-51              Java 1.7
+
+- 49: Java 1.5
+- 50: Java 1.6
+- 51: Java 1.7
